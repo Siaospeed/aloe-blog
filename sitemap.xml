@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://aloe.siao.dev/posts/f2ddab66/</loc>
+    <loc>https://siao.dev/posts/f2ddab66/</loc>
     
     <lastmod>2026-05-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/posts/adb4eaed/</loc>
+    <loc>https://siao.dev/posts/adb4eaed/</loc>
     
     <lastmod>2026-05-12</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/posts/c04d934b/</loc>
+    <loc>https://siao.dev/posts/c04d934b/</loc>
     
     <lastmod>2026-04-27</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/posts/443e9f0e/</loc>
+    <loc>https://siao.dev/posts/443e9f0e/</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/categories/index.html</loc>
+    <loc>https://siao.dev/categories/index.html</loc>
     
     <lastmod>2026-02-01</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/index.html</loc>
+    <loc>https://siao.dev/tags/index.html</loc>
     
     <lastmod>2026-02-01</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>https://aloe.siao.dev/</loc>
+    <loc>https://siao.dev/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,91 +65,91 @@
 
   
   <url>
-    <loc>https://aloe.siao.dev/tags/%E6%BC%94%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://siao.dev/tags/%E6%BC%94%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8B%E6%B3%95/</loc>
+    <loc>https://siao.dev/tags/%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8B%E6%B3%95/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/%E4%BA%8C%E5%88%86%E7%AD%94%E6%A1%88/</loc>
+    <loc>https://siao.dev/tags/%E4%BA%8C%E5%88%86%E7%AD%94%E6%A1%88/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/C-C/</loc>
+    <loc>https://siao.dev/tags/C-C/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/%E9%80%A0%E8%BC%AA%E5%AD%90/</loc>
+    <loc>https://siao.dev/tags/%E9%80%A0%E8%BC%AA%E5%AD%90/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/Linux/</loc>
+    <loc>https://siao.dev/tags/Linux/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/UKVEngine/</loc>
+    <loc>https://siao.dev/tags/UKVEngine/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/%E9%9A%A8%E7%AD%86/</loc>
+    <loc>https://siao.dev/tags/%E9%9A%A8%E7%AD%86/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/%E9%9B%9C%E8%AB%87/</loc>
+    <loc>https://siao.dev/tags/%E9%9B%9C%E8%AB%87/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/Windows-10/</loc>
+    <loc>https://siao.dev/tags/Windows-10/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/PXE/</loc>
+    <loc>https://siao.dev/tags/PXE/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/iPXE/</loc>
+    <loc>https://siao.dev/tags/iPXE/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/tags/%E9%81%8B%E7%B6%AD/</loc>
+    <loc>https://siao.dev/tags/%E9%81%8B%E7%B6%AD/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -158,28 +158,28 @@
 
   
   <url>
-    <loc>https://aloe.siao.dev/categories/%E6%BC%94%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://siao.dev/categories/%E6%BC%94%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/categories/%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C/</loc>
+    <loc>https://siao.dev/categories/%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://siao.dev/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aloe.siao.dev/categories/%E6%8A%98%E9%A8%B0%E6%97%A5%E8%AA%8C/</loc>
+    <loc>https://siao.dev/categories/%E6%8A%98%E9%A8%B0%E6%97%A5%E8%AA%8C/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
